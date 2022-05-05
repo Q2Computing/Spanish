@@ -1,5 +1,5 @@
 
-| Personal Pronouns |
+| Personal Pronouns ||
 | Spanish | English |
 | ------- | ------- |
 | Yo | I |
