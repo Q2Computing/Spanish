@@ -1,5 +1,5 @@
 
-| Personal Pronouns ||
+| <th colspan="2">Personal Pronouns</th>  ||
 | ------- | ------- |
 | Spanish | English |
 | ------- | ------- |
