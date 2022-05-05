@@ -85,6 +85,10 @@
 | ------- | ------ | ------- |
 | Yo | como | I eat ... |
 | Tú | comes | You eat ... |
+| Él/Ella | come | He/She eat |
+| Nosotras | comemos | We eat |
+| Todos ustedas | comen | You eat |
+| Ellas/Ellos | comen | They eat |
 
 #### Hablar Conjugation Table
 
