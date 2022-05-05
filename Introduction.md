@@ -11,9 +11,10 @@
 
 | Gender | Spanish | English |
 | ------- | ------ | ------- |
-| el | Manzana | Apple |
+| la | Mujer | Woman |
 | el | Hombre | Man |
 | el | Pan | Bread |
+| el | Manzana | Apple |
 
 ## Verbs
 
@@ -21,21 +22,38 @@
 
 | Spanish | English |
 | ------- | ------- |
-| Soy | To be |
+| Ser | To be |
 | Bebe | Drink |
 | Come | Eat |
 
+#### Ser Conjugation Table
 
-#### Bebe Conjugation Table
+##### Imperative Tense
+
+| Spanish | English |
+| ¡ Es ... ! | It is ...! |
 
 ##### Present Active Tense
 
-| Personal Pronoun | Conjugation | 
+
+
+#### Beber Conjugation Table
+
+
+##### Present Active Tense
+
+| Personal Pronoun | Conjugation | Translation | 
 | Yo | Bebe |
+| Tú | Bebes |
 
 ##### Present Imperfect Tense
 
-### Note:
+#### Comer Conjugation Table
+
+##### Present Active Tense
+
+| Personal Pronoun | Conjugation | Translation |
+| Yo | como | I eat ... | 
 
 ## Definite Articles
 ### Note: Definite articles in Spanish have an assigned gender.
