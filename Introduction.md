@@ -11,6 +11,7 @@
 | Spanish | English |
 | ------- | ------- |
 | Disculpe | Excuse me |
+| Pérdon | Pardon me |
 
 ## Personal Pronouns
 
@@ -18,7 +19,6 @@
 | ------- | ------- |
 | Yo | I |
 | Tú | You |
-
 
 ## Definite Articles
 ### Note: Definite articles in Spanish have an assigned gender.
