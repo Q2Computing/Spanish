@@ -1,5 +1,10 @@
 # Introduction
 
+## Salutations
+
+| Spanish | English |
+| Hola | Hello |
+
 ## Personal Pronouns
 
 | Spanish | English |
@@ -7,53 +12,6 @@
 | Yo | I |
 | Tú | You |
 
-## Improper Nouns
-
-| Gender | Spanish | English |
-| ------- | ------ | ------- |
-| la | Mujer | Woman |
-| el | Hombre | Man |
-| el | Pan | Bread |
-| el | Manzana | Apple |
-
-## Verbs
-
-### Note: Verbs in spanish have a conjugation that must match the subject's tense and gender.
-
-| Spanish | English |
-| ------- | ------- |
-| Ser | To be |
-| Bebe | Drink |
-| Come | Eat |
-
-#### Ser Conjugation Table
-
-##### Imperative Tense
-
-| Spanish | English |
-| ¡ Es ... ! | It is ...! |
-
-##### Present Active Tense
-
-
-
-#### Beber Conjugation Table
-
-
-##### Present Active Tense
-
-| Personal Pronoun | Conjugation | Translation | 
-| Yo | Bebe |
-| Tú | Bebes |
-
-##### Present Imperfect Tense
-
-#### Comer Conjugation Table
-
-##### Present Active Tense
-
-| Personal Pronoun | Conjugation | Translation |
-| Yo | como | I eat ... | 
 
 ## Definite Articles
 ### Note: Definite articles in Spanish have an assigned gender.
@@ -69,3 +27,69 @@
 | ------- | ------- | ------- |
 | Un | Masculine | a |
 | Une | Feminine | a |
+
+## Improper Nouns
+
+| Gender | Spanish | English |
+| ------- | ------ | ------- |
+| La | Mujer | The Woman |
+| La | Niña | The Girl |
+| El | Hombre | The Man |
+| La | Niño | The Boy |
+| El | Pan | The Bread |
+| El | Manzana | The Apple |
+
+## Verbs
+
+### Note: Verbs in spanish have a conjugation that must match the subject's tense and gender.
+
+| Spanish | English |
+| ------- | ------- |
+| Ser | To be |
+| Beber | Drink |
+| Comer | Eat |
+| Hablar | Speak |
+
+#### Ser Conjugation Table
+
+##### Imperative Tense
+
+| Spanish | English |
+| ¡ Es ... ! | It is ...! |
+
+##### Present Active Tense
+
+| Personal Pronoun | Conjugation | Translation | 
+| Yo | soy | I am ... |
+| Tú | eres | You are ... |
+
+#### Beber Conjugation Table
+
+##### Present Active Tense
+
+| Personal Pronoun | Conjugation | Translation | 
+| Yo | Bebo | I drink |
+| Tú | Bebes | You drink |
+| Él/Ella | Bebe | He/She drinks |
+
+##### Present Imperfect Tense
+
+#### Comer Conjugation Table
+
+##### Present Active Tense
+
+| Personal Pronoun | Conjugation | Translation |
+| Yo | como | I eat ... |
+| Tú | comes | You eat ... |
+
+#### Hablar Conjugation Table
+
+##### Present Active Tense
+
+| Personal Pronoun | Conjugation | Translation |
+| Yo | hablo | I speak ... |
+| Tú | hablas | You eat ... |
+| Él/Ella | habla/habla | He/She speaks |
+| Nosotros | hablamos | We speak |
+| Todos | hablan | You speak |
+| Ellas/Ellos | hablan | They speak |
