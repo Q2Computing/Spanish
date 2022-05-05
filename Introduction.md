@@ -1,6 +1,7 @@
+# Introduction
 
-| <th colspan="2">Personal Pronouns</th>  |
-| ------- | ------- |
+## Personal Pronouns
+
 | Spanish | English |
 | ------- | ------- |
 | Yo | I |
