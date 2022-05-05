@@ -3,6 +3,7 @@
 ## Salutations
 
 | Spanish | English |
+| ------- | ------- |
 | Hola | Hello |
 
 ## Personal Pronouns
