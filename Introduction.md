@@ -55,11 +55,13 @@
 ##### Imperative Tense
 
 | Spanish | English |
-|  Es ... ! | It is ...! |
+| ------- | ------- |
+| ¡ Es ... ! | It is ...! |
 
 ##### Present Active Tense
 
 | Personal Pronoun | Conjugation | Translation | 
+| ------- | ------ | ------- |
 | Yo | soy | I am ... |
 | Tú | eres | You are ... |
 
