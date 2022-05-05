@@ -55,7 +55,7 @@
 ##### Imperative Tense
 
 | Spanish | English |
-| ¡ Es ... ! | It is ...! |
+|  Es ... ! | It is ...! |
 
 ##### Present Active Tense
 
