@@ -70,6 +70,7 @@
 ##### Present Active Tense
 
 | Personal Pronoun | Conjugation | Translation | 
+| ------- | ------ | ------- |
 | Yo | Bebo | I drink |
 | Tú | Bebes | You drink |
 | Él/Ella | Bebe | He/She drinks |
@@ -81,6 +82,7 @@
 ##### Present Active Tense
 
 | Personal Pronoun | Conjugation | Translation |
+| ------- | ------ | ------- |
 | Yo | como | I eat ... |
 | Tú | comes | You eat ... |
 
@@ -89,6 +91,7 @@
 ##### Present Active Tense
 
 | Personal Pronoun | Conjugation | Translation |
+| ------- | ------ | ------- |
 | Yo | hablo | I speak ... |
 | Tú | hablas | You eat ... |
 | Él/Ella | habla/habla | He/She speaks |
