@@ -6,6 +6,12 @@
 | ------- | ------- |
 | Hola | Hello |
 
+## Interjections
+
+| Spanish | English |
+| ------- | ------- |
+| Disculpe | Excuse me |
+
 ## Personal Pronouns
 
 | Spanish | English |
